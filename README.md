@@ -10,15 +10,15 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - Track revisions and repeated practice sessions
 
 ## Progress
-- Currently completed: 0/250 problems
-- Current streak: 0 days
-- Completed: 0
+- Currently completed: 1/250 problems
+- Current streak: 1 days
+- Completed: 1
 - Remaining: 250
 
 ### Progress by Category
 
 #### Arrays & Hashing (0/22 problems)
-- [ ] 1. Concatenation of Array (Easy) - Revisions: 0
+- [x] 1. Concatenation of Array (Easy) - Revisions: 0
 - [ ] 2. Contains Duplicate (Easy) - Revisions: 0
 - [ ] 3. Valid Anagram (Easy) - Revisions: 0
 - [ ] 4. Two Sum (Easy) - Revisions: 0
