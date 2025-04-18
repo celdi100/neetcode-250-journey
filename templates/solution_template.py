@@ -1,10 +1,9 @@
 """
 Problem: [Problem Name]
 Difficulty: [Easy/Medium/Hard]
-LeetCode #: [XXX]
 NeetCode #: [X/250]
-Date Solved: [Date]
-Attempt: [First Attempt/Revision #N]
+Attempt: [? Attempt]
+Revision: #N
 
 Problem Description:
 [Copy problem description here]
@@ -22,7 +21,7 @@ Key Insights:
 [Note any important learnings or patterns]
 """
 
-def functionName(self, param1, param2):
+def functionName(param1, param2):
     # Solution implementation here
     pass
         
