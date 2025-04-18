@@ -40,7 +40,7 @@ version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 ## Example community_solutions structure
-    
+```
 community_solutions/
 ├── johndoe/
 │   ├── two_sum/
@@ -52,3 +52,4 @@ community_solutions/
 │       ├── solution.py
 │       └── approach.md
 └── README.md  # Explains the community solutions directory
+```
