@@ -17,7 +17,7 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 
 ### Progress by Category
 
-#### Arrays & Hashing (4e/22 problems)
+#### Arrays & Hashing (4/22 problems)
 - [x] 1. Concatenation of Array (Easy) - Revisions: 0
 - [x] 2. Contains Duplicate (Easy) - Revisions: 0
 - [x] 3. Valid Anagram (Easy) - Revisions: 0
