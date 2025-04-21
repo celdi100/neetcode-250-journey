@@ -10,19 +10,19 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - Track revisions and repeated practice sessions
 
 ## Progress
-- Currently completed: 4/250 problems
+- Currently completed: 5/250 problems
 - Current streak: 1 days
 - Previous strak: 3 days
 - Completed: 4
 
 ### Progress by Category
 
-#### Arrays & Hashing (4/22 problems)
+#### Arrays & Hashing (5/22 problems)
 - [x] 1. Concatenation of Array (Easy) - Revisions: 0
 - [x] 2. Contains Duplicate (Easy) - Revisions: 0
 - [x] 3. Valid Anagram (Easy) - Revisions: 0
 - [x] 4. Two Sum (Easy) - Revisions: 0
-- [ ] 5. Longest Common Prefix (Easy) - Revisions: 0
+- [x] 5. Longest Common Prefix (Easy) - Revisions: 0
 - [ ] 6. Group Anagrams (Medium) - Revisions: 0
 - [ ] 7. Remove Element (Easy) - Revisions: 0
 - [ ] 8. Majority Element (Easy) - Revisions: 0
