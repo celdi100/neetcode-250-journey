@@ -2,17 +2,17 @@
 
 ## April 17, 2025
 - **Problems solved:**
-  - [Problem Name] (#XXX) - [Difficulty]
+  - [Problem Name] - [Difficulty]
     - Approach: [Brief description of approach]
     - Time complexity: O(?)
     - Space complexity: O(?)
     - Key insights: [What I learned]
     - Revision count: 1 (First attempt)
-  - [Additional Problem] (#XXX) - [Difficulty]
+  - [Additional Problem] - [Difficulty]
     - ...
 
 - **Problems revised:**
-  - [Problem Name] (#XXX) - Revision #2
+  - [Problem Name] - Revision #2
     - New insights: [What I noticed this time]
     - Areas for improvement: [What I still need to work on]
 
@@ -25,3 +25,6 @@
 
 - **Plan for tomorrow:**
   - [Specific problems or topics]
+
+- **Comment**
+  - ...
